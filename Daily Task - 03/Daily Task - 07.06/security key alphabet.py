@@ -1,4 +1,4 @@
-#Need improvements
+#Need improvements and has errors
 data_str = input()
 def security_key(data_str):
     digit_count = [0] * 10
