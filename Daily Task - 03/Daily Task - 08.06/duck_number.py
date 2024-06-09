@@ -1,3 +1,4 @@
+#Not Work in Python
 value=int(input())
 str_v=str(value)
 def is_duck(str_v):
