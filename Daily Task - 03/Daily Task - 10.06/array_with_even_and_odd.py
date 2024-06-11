@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input("Enter the Size of the Array:"))
 arr1 = list(map(int,input().split()))
 def array_manipulation(arr1):
     length=len(arr1)
