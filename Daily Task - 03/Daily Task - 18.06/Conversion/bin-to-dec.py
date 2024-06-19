@@ -12,7 +12,7 @@ def decimalToBinary():
     decimal=int(input("Enter a Decimal:"))
     binary=0
     print(bin(decimal))
-    # while(decimal!=0):
+    # while(decimal!=0): 
         
         
 def main():
