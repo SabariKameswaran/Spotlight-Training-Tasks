@@ -36,3 +36,7 @@ def main(in1,in2,in3):
     fourth=max(p1,p2,p3)
     print(f"{first}{second}{third}{fourth}")
 main(in1,in2,in3)
+
+    # first=[in1//1000,(in1%1000)//100,(in1%100)//10,in1%10]
+    # second=[in2//1000,(in2%1000)//100,(in2%100)//10,in2%10]
+    # third=[in3//1000,(in3%1000)//100,(in3%100)//10,in3%10]
