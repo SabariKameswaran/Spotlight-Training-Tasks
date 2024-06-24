@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Stable",
+      "request": "launch",
+      "mainClass": "Stable",
+      "projectName": "Task_a6d7f4c1"
+    },
+    {
+      "type": "java",
       "name": "Plan",
       "request": "launch",
       "mainClass": "Plan",
